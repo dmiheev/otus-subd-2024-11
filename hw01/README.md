@@ -21,8 +21,9 @@
 * минус 2 балла, если работа выполнена, но имеются недостатки и студент не хочет их устранять
 
 ## **Схема**
+![scheme](https://github.com/dmiheev/otus-subd-2024-11/blob/main/hw01/drawSQL-image-export-2024-11-30.png)
 
-![[drawSQL-image-export-2024-11-30.png]]
+https://drawsql.app/teams/yp-1/diagrams/otus-subd-2024-11
 
 
 ## **Описание таблиц и полей**
