@@ -68,3 +68,9 @@ USING (
 WHERE t.ID = cat.ID
 ;
 SELECT * FROM SHOP.CATEGORIES C
+;
+
+-- Задание со *:
+-- Приведите пример использования утилиты COPY
+-- Можем заполнить справочник категорий из CSV-файла
+COPY SHOP.CATEGORIES FROM '/path_to_csv/NEW_CATEGORIES.txt' WITH (FORMAT csv);
